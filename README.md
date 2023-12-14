@@ -1,4 +1,4 @@
-# inverse-universe-privacy-policy
+# Inverse-Universe Privacy Policy
 
 Inverse Universe built the Cloud Castle app as a Commercial app. This SERVICE is provided by Inverse Universe and is intended for use as is.
 
